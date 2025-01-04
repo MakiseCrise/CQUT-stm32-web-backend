@@ -1,0 +1,10 @@
+.\objects\cjson.o: Hardware\cJSON.c
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\math.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\limits.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\ctype.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\float.h
+.\objects\cjson.o: Hardware\cJSON.h
+.\objects\cjson.o: E:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
